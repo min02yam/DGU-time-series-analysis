@@ -1,5 +1,5 @@
 # DGU-time-series-analysis
-Time series analysis final project : SAS
+Time series analysis final project : SAS(90%), R(10%)
 
 - SARIMA 모형을 이용한 수두 발생 예측 개인 프로젝트입니다.
 - 질병관리청의 데이터 셋을 사용했습니다.

@@ -12,8 +12,8 @@ Time series analysis final project : SAS(90%), R(10%)
     - 기관: 질병관리청
     - 출처: 질병관리청> 감염병포털([https://www.kdca.go.kr/npt/biz/npp/nppMain.do](https://www.kdca.go.kr/npt/biz/npp/nppMain.do))
     - 기간: 2006.01 ~ 2020.11 (총 179달)
-    - 구분: 2급> 수두> 발생 수,
-               환자분류> 전체
+    - 구분: `감염병명`> 2급> 수두> 발생 수,
+               `환자분류`> 전체
 
 
 

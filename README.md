@@ -25,7 +25,7 @@
 
 ## 목차
 <img width="416" alt="image" src="https://github.com/min02yam/Prediction-of-Chickenpox-Incidence-Using-SARIMA-Model/assets/93497667/05fbf2e2-a1b2-4b7d-8add-2545d9953904">
-<br>(중략)
+(중략)
 <img width="459" alt="image" src="https://github.com/min02yam/Prediction-of-Chickenpox-Incidence-Using-SARIMA-Model/assets/93497667/337242fb-1b1b-4809-a9be-e37c70a8938d">
 
 - 제 1 장 서론
